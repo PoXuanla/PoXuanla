@@ -1,4 +1,13 @@
 ### Hi there 👋
+![image](https://img.shields.io/badge/%20-VUE-2F4F4F?logo=Vue.js&style=for-the-badge)
+![image](https://img.shields.io/badge/%20-JavaScript-2F4F4F?logo=JavaScript&style=for-the-badge)
+
+![image](https://img.shields.io/badge/%20-TypeScript-2F4F4F?logo=TypeScript&style=for-the-badge)
+![image](https://img.shields.io/badge/%20-Next.js-2F4F4F?logo=Next.js&style=for-the-badge)
+![image](https://img.shields.io/badge/%20-Tailwind_CSS-2F4F4F?logo=Tailwind%20CSS&style=for-the-badge)
+
+![image](https://img.shields.io/badge/%20-REACT-2F4F4F?logo=react&style=for-the-badge)
+![Poxuanla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poxuanla&show_icons=true&theme=radical)
 
 <!--
 **PoXuanla/PoXuanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
